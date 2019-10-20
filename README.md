@@ -1,6 +1,8 @@
 # Hear Me Out
 Hear Me Out is an attempt to translate Indian Sign Language(ISL) gestures to text and speech using a sensor glove. This repository contains the code for the complete project.
 
+Watch the demo at : https://youtu.be/pjQJLYO3Ago
+
 ## What's Different?
 So there have been a lot of attempts to translate ISL gestures to speech but most of them can only translate static signs and have limited intelligence. With the advent of deep learning, there is an opportunity to make the translation process smarter.
 
