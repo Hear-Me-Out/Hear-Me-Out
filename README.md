@@ -28,4 +28,8 @@ Unlike the existing approaches, our design is capable of translating both static
 - ### Confusion Matrix
 ![confusion_matrix](https://user-images.githubusercontent.com/15849927/67158780-ea4c0400-f359-11e9-890c-eff888113694.png)
 
+## Contributers
+- [Ebey Abraham](https://github.com/MrGrayCode)
+- [Akshatha Nayak](https://github.com/Aksh77)
+- Ashna Iqbal
 
